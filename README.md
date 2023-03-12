@@ -1,4 +1,6 @@
-# chatgpt-playground
+# Chatgpt-playground
+
+
 
 Its a react application and node js server created for playing with open ai models provide by openai to use in api request parameters and generate response like [chatgpt](https://chat.openai.com/chat)
 
