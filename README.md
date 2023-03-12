@@ -6,8 +6,13 @@ You can select all the models available in openai from dropdown and get the resu
 
 You need to run a local server and client application on your local system to run the complete project and use your own api keys for connect with openai api's.
 
+
+
 :+1: *All the best*
  you can raise PR for new featuresin both server and application for contribution along with contribution guidelines.
+
+**:exclamation: This story contains submodule don't clone it with regular command** <br/>
+**:white_check_mark: Clone with command ```git clone --recurse-submodule https://github.com/kuldeepNageshwar17/chatgpt-playground```**
 
 # About the repository codebase
 contains a node js server and a client application 
@@ -29,7 +34,8 @@ It will run on the port 3080<br/>
 1. run  **npm install**
 2. run **node index.js**
 
-### Chat gpt client apication
+## Chat gpt client appication
+
 inside client folder you can get the code of client application for chat gpt it somewhat same as the chatgpt ui <br/>
 created by **create-react-app**
 **Steps to run server**
